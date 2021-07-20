@@ -1,11 +1,4 @@
-# Client-Management-System
-
-## Author 
-[Nafi Mahmud][author]
-
-[author]: https://sourcecodebd.github.io/nafi.com/
-A management app for the customers, sales, vendors as well as admin panel, made with growing PHP framework Laravel. Feel free to check the source code.
-
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
